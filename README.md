@@ -1,2 +1,4 @@
 # hello-world
-joy to the world
+hurry up
+joy to world
+now
